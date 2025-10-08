@@ -1,7 +1,6 @@
 # Unity UI Framework + Automation Ready System
 
 </br>
-</br>
 
 ## 1. 기술 개요
 - **이름:** Unity UI Framework + Automation Ready System  
